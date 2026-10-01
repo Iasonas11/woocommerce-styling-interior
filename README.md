@@ -39,11 +39,12 @@ To keep this repository clean and focused on custom work (rather than core WordP
 
 ## 📸 Project Previews
 
-![Contact Page & Google Maps Integration](/Users/iasonastsiouramanis/Desktop/My-WooCommerce-Project/Screenshots/contact-details.png)
-![Product Filtering](/Users/iasonastsiouramanis/Desktop/My-WooCommerce-Project/Screenshots/product-filtering-searching.png)
-![Checkout with Custom COD-GREECE](/Users/iasonastsiouramanis/Desktop/My-WooCommerce-Project/Screenshots/custom-cod-fees-greece.png)
-![Checkout with Custom COD-GLOBAL](/Users/iasonastsiouramanis/Desktop/My-WooCommerce-Project/Screenshots/custom-cod-fees-global.png)
-![GDPR Cookie Consent](/Users/iasonastsiouramanis/Desktop/My-WooCommerce-Project/Screenshots/GDPR-cookie-consent.png)
-![Accessibility Menu](/Users/iasonastsiouramanis/Desktop/My-WooCommerce-Project/Screenshots/accessibility-menu.png)
-![Admin Security - Blocked Default Login](/Users/iasonastsiouramanis/Desktop/My-WooCommerce-Project/Screenshots/blocked-default-login.png)
+<img width="721" height="835" alt="contact-details" src="https://github.com/user-attachments/assets/4be90f88-263a-4e65-b858-de2d058ced9a" />
+<img width="1710" height="1107" alt="product-filtering-searching" src="https://github.com/user-attachments/assets/eaa341ba-de58-46bd-9f27-8d6f4b97df51" />
+<img width="852" height="973" alt="GDPR-cookie-consent" src="https://github.com/user-attachments/assets/8052ae1a-7691-479f-8cdd-4a2e78af4009" />
+<img width="1379" height="938" alt="custom-cod-fees-greece" src="https://github.com/user-attachments/assets/5be404bc-761e-4e51-b62d-ac4ce450816b" />
+<img width="1334" height="871" alt="custom-cod-fees-global" src="https://github.com/user-attachments/assets/9385714f-e9b1-4f73-a61e-ef955b3dd15c" />
+<img width="1710" height="1107" alt="blocked-default-login" src="https://github.com/user-attachments/assets/2423accd-51ed-4d91-82f3-7953d6d17942" />
+<img width="580" height="1015" alt="accessibility-menu" src="https://github.com/user-attachments/assets/ff0ae481-32dd-4d72-8a5e-885d74160802" />
+
 
